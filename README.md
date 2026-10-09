@@ -17,9 +17,9 @@ dossier index.html
 * Contactez-nous : Formulaire de message, coordonnées et plan d'accè
 
 ## Resource
-* https://medium.com/@soufianboushaba314/html-de-z%C3%A9ro-le-guide-complet-pour-d%C3%A9butants-c011e91e8408
-* https://www.w3schools.com/html/html_elements.asp
-* https://medium.com/@soufianboushaba314/css-de-z%C3%A9ro-apprendre-en-regardant-4f1300d7dd15
+* HTML :https://medium.com/@soufianboushaba314/html-de-z%C3%A9ro-le-guide-complet-pour-d%C3%A9butants-c011e91e8408
+* HTML :https://www.w3schools.com/html/html_elements.asp
+* CSS  :https://medium.com/@soufianboushaba314/css-de-z%C3%A9ro-apprendre-en-regardant-4f1300d7dd15
 
 ## réalisé par
 Aboueljad salma 
