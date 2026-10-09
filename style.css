@@ -545,3 +545,46 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+
+.Contact {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 1100px;
+  margin: 40px auto;
+}
+
+.Contact form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 50%;
+}
+
+.Contact input:not([type="checkbox"]),
+.Contact textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.Contact textarea {
+  height: 120px;
+}
+
+.Contact button {
+  background-color: #FF6B2C;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+input{
+  border-radius: 10px;
+  border: 1px solid gray ;
+}
+textarea {
+    border-radius: 10px;
+  border: 1px solid gray ;
+}
