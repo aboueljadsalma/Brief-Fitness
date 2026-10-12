@@ -8,7 +8,7 @@ dossier index.html
 * index.html = Accueil
 * Apropos.html = À propos
 * programme.html = Programmes
-* contact.html = Contactez-nous
+* contact.html = Contactez-vous
 
 ## Dévleloppement
 * Accueil : Présentation de la salle et des programmes.
